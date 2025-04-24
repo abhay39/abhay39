@@ -7,24 +7,24 @@
 
 <p align="left"> <a href="https://twitter.com/abhay07781" target="blank"><img src="https://img.shields.io/twitter/follow/abhay07781?logo=twitter&style=for-the-badge" alt="abhay07781" /></a> </p>
 
-- 🔭 I’m currently working on **Fullstack Ecommerce Website**
+- 🔭 I’m currently working on **FireCompass Technologies Pvt. Ltd.**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently working as **Software Developer**
 
-- 👯 I’m looking to collaborate on **Cross Mobile Development on Ecommerece App**
+- 👯 I’m looking to collaborate on **Full Stack development and Cross Mobile App Development**
 
-- 🤝 I’m looking for help with **Full Stack Developer**
+- 🤝 I’m looking for reffer with **Software Developer**
 
 - 👨‍💻 All of my projects are available at [https://abhaygupta.netlify.app/](https://abhaygupta.netlify.app/)
 
-- 💬 Ask me about **React, Next.js, React Native, C++**
+- 💬 Ask me about **React, Next.js, React Native, C++, Mongoose, SQL**
 
 - 📫 How to reach me **abhayguptaak39@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abhay07781" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhay07781" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abhaykumargupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhaykumargupta" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abhaykumargupta07788" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhaykumargupta" height="30" width="40" /></a>
 <a href="https://fb.com/abhaygupta07788" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhaygupta07788" height="30" width="40" /></a>
 <a href="https://instagram.com/abhay_gupta07788" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhay_gupta07788" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abhayguptaak39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhayguptaak39" height="30" width="40" /></a>
